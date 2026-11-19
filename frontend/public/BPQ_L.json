@@ -1,0 +1,20 @@
+[
+  {
+    "id": "BPQ020",
+    "question": "Have you ever been told by a doctor or other health professional that you had hypertension, also called high blood pressure?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "BPQ030",
+    "question": "Were you told on 2 or more different visits that you had hypertension, also called high blood pressure?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "BPQ080",
+    "question": "Have you ever been told by a doctor or other health professional that your blood cholesterol level was high?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "WHD010",
+    "question": "How tall are you, in inches, without shoes?",
+    "qtype": "numeric",
+    "answers": "numeric"
+  },
+  {
+    "id": "WHD020",
+    "question": "How much do you weigh, in pounds, without shoes or clothes?",
+    "qtype": "numeric",
+    "answers": "numeric"
+  },
+  {
+    "id": "WHD050",
+    "question": "How much do you weigh, in pounds, one year ago?",
+    "qtype": "",
+    "answers": "numeric"
+  },
+  {
+    "id": "WHD070",
+    "question": "During the past 12 months, have you tried to lose weight?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  }
+]

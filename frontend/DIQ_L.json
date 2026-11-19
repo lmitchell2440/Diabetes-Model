@@ -1,8 +1,0 @@
-{
-  "1": {
-    "Id": "DIQ010",
-    "Question": "Age diagnosed",
-    "Qtype": "Multiselect",
-    "Answers": ["Yes", "No", "Border"]
-  }
-}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "DBQ301",
+    "question": "In the past 12 months, did receive any meals delivered to your home from community programs, 'Meals on Wheels', or any other programs?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "DBQ330",
+    "question": "In the past 12 months, did you go to a community program or senior center to eat prepared meals?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "DBQ930",
+    "question": "Are you the person who does most of the planning or preparing of meals in your family",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "DBQ940",
+    "question": "Are you the person who does most of the shopping for food in your family",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  }
+]

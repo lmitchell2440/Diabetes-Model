@@ -1,0 +1,14 @@
+[
+  {
+    "id": "DID040",
+    "question": "How old are you?",
+    "qtype": "numeric",
+    "answers": "numeric"
+  },
+  {
+    "id": "DIQ160",
+    "question": "Have you ever been told by a doctor or other health professional that you have any of the following: prediabetes, impaired fasting glucose, impaired glucose tolerance, borderline diabetes or that your blood sugar is higher than normal but not high enough to be called diabetes or sugar diabetes?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  }
+]

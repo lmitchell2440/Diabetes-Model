@@ -1,0 +1,32 @@
+[
+  {
+    "id": "PAD790",
+    "question": "How often do you do moderate-intensity leisure-time physical activities? Moderate-intensity activities cause moderate increases in breathing or heart rate.",
+    "qtype": "numeric_unit",
+    "answers": ["Day", "Week", "Month", "Year"]
+  },
+  {
+    "id": "PAD800",
+    "question": "About how long do these moderate leisure-time physical activities each time, in minutes?",
+    "qtype": "numeric",
+    "answers": "numeric"
+  },
+  {
+    "id": "PAD810",
+    "question": "How often do you do moderate-intensity leisure-time physical activities? Vigorous-intensity activities cause large increases in breathing or heart rate.",
+    "qtype": "numeric_unit",
+    "answers": ["Day", "Week", "Month", "Year"]
+  },
+  {
+    "id": "PAD820",
+    "question": "About how long do these vigorous leisure-time physical activities each time, in minutes?",
+    "qtype": "numeric",
+    "answers": "numeric"
+  },
+  {
+    "id": "PAD680",
+    "question": "In minutes, how much time do you usually spend sitting on a typical day? This can include sitting at school, at home, getting to and from places, or with friends including time spent sitting at a desk, traveling in a car or bus, reading, playing cards, watching television, or using a computer. Do not include time spent sleeping.",
+    "qtype": "numeric",
+    "answers": "numeric"
+  }
+]

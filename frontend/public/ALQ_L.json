@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ALQ111",
+    "question": "In your entire life, have you had at least 1 drink (equal to 12 oz. beer, a 5 oz. glass of wine, or one and a half ounces of liquor.) of any kind of alcohol, not counting small tastes or sips?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "ALQ121",
+    "question": "During the past 12 months, about how often did you drink any type of alcoholic beverage? In other words, how many days per week, per month, or per year did you drink?",
+    "qtype": "multiselect",
+    "answers": [
+      "Never in the last year",
+      "Every day",
+      "Nearly every day",
+      "3 to 4 times a week",
+      "2 times a week",
+      "Once a week",
+      "2 to 3 times a month",
+      "Once a month",
+      "7 to 11 times in the last year",
+      "3 to 6 times in the last year",
+      "1 to 2 times in the last year"
+    ]
+  },
+  {
+    "id": "ALQ130",
+    "question": "During the past 12 months, on those days that you drank alcoholic beverages, on average, how many drinks did you have? (By a drink, I mean a 12 oz. beer, a 5 oz. glass of wine, or one and a half ounces of liquor.)",
+    "qtype": "numeric",
+    "answers": "numeric"
+  }
+]
