@@ -1,0 +1,31 @@
+[
+  {
+    "id": "OCD150",
+    "question": "Which of the following types of work did you do last week?",
+    "qtype": "multiselect",
+    "answers": [
+      "Working at a job or business",
+      "With a job or business but not at work",
+      "Looking for work",
+      "Not working at a job or business"
+    ]
+  },
+  {
+    "id": "OCQ180",
+    "question": "How many hours did you work last week at all jobs or businesses?",
+    "qtype": "numeric",
+    "answers": "numeric"
+  },
+  {
+    "id": "OCQ210",
+    "question": "Do you usually work 35 or more hours per week at in total at all jobs or businesses?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "OCQ215",
+    "question": "How many days per week do you usually work?",
+    "qtype": "numeric",
+    "answers": "numeric"
+  }
+]

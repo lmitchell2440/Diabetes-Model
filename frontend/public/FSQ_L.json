@@ -1,0 +1,80 @@
+[
+  {
+    "id": "FSD032A",
+    "question": "In the last 12 months, it has been _____ that I've worried whether my food would run out before I got money to buy more.",
+    "qtype": "multiselect",
+    "answers": ["Often true", "Sometimes true", "Never true"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, it has been _____ that the food that I bought just didn't last, and I didn't have enough money to get more food.",
+    "qtype": "multiselect",
+    "answers": ["Often true", "Sometimes true", "Never true"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, it has been _____ that I couldn't afford to eat balanced meals.",
+    "qtype": "multiselect",
+    "answers": ["Often true", "Sometimes true", "Never true"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, did you or other adults in your household ever cut the size of your meals or skip meals because there wasn't enough money for food?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, how often did you or other adults in your household cut the size of your meals for monetary reasons?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, did you ever eat less than you felt you should because there wasn't enough money for food?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, were you ever hungry but didn't eat because there wasn't enough money for food?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, did you lose weight because there wasn't enough money for food?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, did you or other adults in your household ever not eat for a whole day because there wasn't enough money for food?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, did you or any member of your household ever get emergency food from a church, a food pantry, or a food bank, or eat in a soup kitchen?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "",
+    "question": "Have you or anyone in your household ever received SNAP or Food Stamp benefits?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, did you or any member of your household receive SNAP or Food Stamp benefits?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  },
+  {
+    "id": "",
+    "question": "In the last 12 months, did you or any member of your household receive benefits from the WIC (Women, Infants and Children) program?",
+    "qtype": "multiselect",
+    "answers": ["Yes", "No"]
+  }
+]

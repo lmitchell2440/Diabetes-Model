@@ -1,0 +1,8 @@
+[
+  {
+    "id": "INCOME_BASE",
+    "question": "What is your annual household income in USD?",
+    "qtype": "numeric",
+    "answers": "numeric"
+  }
+]
